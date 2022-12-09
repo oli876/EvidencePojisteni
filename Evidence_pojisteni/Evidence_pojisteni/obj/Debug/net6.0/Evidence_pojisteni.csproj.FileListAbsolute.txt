@@ -1,0 +1,15 @@
+C:\cmder\bin\Projekt ke zkoušce\Evidence_pojisteni\Evidence_pojisteni\bin\Debug\net6.0\Evidence_pojisteni.exe
+C:\cmder\bin\Projekt ke zkoušce\Evidence_pojisteni\Evidence_pojisteni\bin\Debug\net6.0\Evidence_pojisteni.deps.json
+C:\cmder\bin\Projekt ke zkoušce\Evidence_pojisteni\Evidence_pojisteni\bin\Debug\net6.0\Evidence_pojisteni.runtimeconfig.json
+C:\cmder\bin\Projekt ke zkoušce\Evidence_pojisteni\Evidence_pojisteni\bin\Debug\net6.0\Evidence_pojisteni.dll
+C:\cmder\bin\Projekt ke zkoušce\Evidence_pojisteni\Evidence_pojisteni\bin\Debug\net6.0\Evidence_pojisteni.pdb
+C:\cmder\bin\Projekt ke zkoušce\Evidence_pojisteni\Evidence_pojisteni\obj\Debug\net6.0\Evidence_pojisteni.csproj.AssemblyReference.cache
+C:\cmder\bin\Projekt ke zkoušce\Evidence_pojisteni\Evidence_pojisteni\obj\Debug\net6.0\Evidence_pojisteni.GeneratedMSBuildEditorConfig.editorconfig
+C:\cmder\bin\Projekt ke zkoušce\Evidence_pojisteni\Evidence_pojisteni\obj\Debug\net6.0\Evidence_pojisteni.AssemblyInfoInputs.cache
+C:\cmder\bin\Projekt ke zkoušce\Evidence_pojisteni\Evidence_pojisteni\obj\Debug\net6.0\Evidence_pojisteni.AssemblyInfo.cs
+C:\cmder\bin\Projekt ke zkoušce\Evidence_pojisteni\Evidence_pojisteni\obj\Debug\net6.0\Evidence_pojisteni.csproj.CoreCompileInputs.cache
+C:\cmder\bin\Projekt ke zkoušce\Evidence_pojisteni\Evidence_pojisteni\obj\Debug\net6.0\Evidence_pojisteni.dll
+C:\cmder\bin\Projekt ke zkoušce\Evidence_pojisteni\Evidence_pojisteni\obj\Debug\net6.0\refint\Evidence_pojisteni.dll
+C:\cmder\bin\Projekt ke zkoušce\Evidence_pojisteni\Evidence_pojisteni\obj\Debug\net6.0\Evidence_pojisteni.pdb
+C:\cmder\bin\Projekt ke zkoušce\Evidence_pojisteni\Evidence_pojisteni\obj\Debug\net6.0\Evidence_pojisteni.genruntimeconfig.cache
+C:\cmder\bin\Projekt ke zkoušce\Evidence_pojisteni\Evidence_pojisteni\obj\Debug\net6.0\ref\Evidence_pojisteni.dll
